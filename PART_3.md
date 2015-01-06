@@ -2,6 +2,7 @@
 ## Exercises Using Classes
 
 * Create a class called `superHero` that takes a `firstName` and `lastName`. Give each superHero a `superPunch` method that returns `"WHAM!"`.
+
 * Create a class called `robot` that takes `name` and `purpose`. Give each robot a `greet` method that returns `"beep boop"`
 
 * Make a `Starship` class that takes a `model` and `ownerName`. 
